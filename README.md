@@ -1,17 +1,15 @@
-# w1_muhammadrizqifadhilah
+### 1. Persegi Panjang
 
-A new Flutter project.
+![Soal 1](assets/soal1.png)
 
-## Getting Started
+### 2. Rata-rata & Grade
 
-This project is a starting point for a Flutter application.
+![Soal 2](assets/soal2.png)
 
-A few resources to get you started if this is your first Flutter project:
+### 3. FizzBuzz 1–20
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+![Soal 3](assets/soal3.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 4. Class Mahasiswa
+
+![Soal 4](assets/soal4.png)
